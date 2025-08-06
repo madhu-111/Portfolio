@@ -3,7 +3,7 @@
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full Stack Developer specializing in AI/ML.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-portfolio-link.com)
-[![GitHub](https://https://github.com/madhu-111)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-bluegithub.com/madhu-111)
 
 ## ✨ Features
 
